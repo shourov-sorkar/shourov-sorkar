@@ -23,7 +23,7 @@ This is **Monir Hossain Showrav**. Connect with me here -
 
 - ⚡️ Fun fact: I love to eat and travel
 
-[![shourov-sorkar's github stats](https://github-readme-stats.vercel.app/api?username=shourov-sorkar&theme=dark&show_icons=true)](https://github.com/moshfiqrony)
+[![shourov-sorkar's github stats](https://github-readme-stats.vercel.app/api?username=shourov-sorkar&theme=dark&show_icons=true)](https://github.com/shourov-sorkar)
 
 
 
