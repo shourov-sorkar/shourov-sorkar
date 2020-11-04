@@ -8,6 +8,9 @@ This is **Monir Hossain Showrav**. Connect with me here -
 [![Medium Badge](https://img.shields.io/badge/-@rshourov156-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@rshourov156/)](https://medium.com/@rshourov156)
 [![Instagram Badge](https://img.shields.io/badge/-shourov_return0-purple?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/shourov_return0/)](https://www.instagram.com/shourov_return0/)
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shourov-sorkar" alt="shourov-sorkar" /> </p>
+
+
 - 🏢 I'm currently student at **International University of Business Agriculture and Technology**
 - 🚀 I use daily:
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
