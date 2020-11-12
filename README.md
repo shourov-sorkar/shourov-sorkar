@@ -33,7 +33,10 @@ This is **Monir Hossain Showrav**. Connect with me here -
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shourov-sorkar&layout=compact&theme=radical" alt="shourov-sorkar"/>
 </a>
 
-<img height="200px" src="https://wakatime.com/share/@shourov-sorkar/31370f73-483b-4b40-95c5-8cbd04a45c7e.svg"/> | <a href="https://wakatime.com"><img height="200px" src="https://wakatime.com/share/@shourov-sorkar/36e99f4d-8bb6-428e-98b4-060ddd5668f0.png" /></a>
+<h2 align="center">💡 Problem Solving Profiles ✨</h2>
+<p align="center">
+<a href="https://www.hackerrank.com/ID_18103142"><img src="https://img.shields.io/badge/hackerrank-2FC866?&style=for-the-badge&logo=hackerrank&logoColor=white"/></a><br>
+<a href="https://codeforces.com/profile/shourov_return0"><img src="https://img.shields.io/badge/codeforces-yellow?&style=for-the-badge&logo=codeforces&logoColor=white"/></a></p> <h5 align="center"> Total Solved: 183 | Total Tried: 240 | Total Submissions: 210</h5>
 
 
 
