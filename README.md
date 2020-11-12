@@ -33,6 +33,8 @@ This is **Monir Hossain Showrav**. Connect with me here -
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shourov-sorkar&layout=compact&theme=radical" alt="shourov-sorkar"/>
 </a>
 
+<img height="200px" src="https://wakatime.com/share/@shourov-sorkar/31370f73-483b-4b40-95c5-8cbd04a45c7e.svg"/> | <a href="https://wakatime.com"><img height="200px" src="https://wakatime.com/share/@shourov-sorkar/36e99f4d-8bb6-428e-98b4-060ddd5668f0.png" /></a>
+
 
 
 # Read my recent blog's
