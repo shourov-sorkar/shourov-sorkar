@@ -24,7 +24,7 @@ This is **Monir Hossain Showrav**. Connect with me here -
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
 
 - ⚡️ Fun fact: I love to eat and travel
-<img align="right" alt="GIF" src="https://github.com/shourov-sorkar/shourov-sorkar/blob/master/coding.gif?raw=true" width="500" height="320" />
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shourov-sorkar" alt="shourov-sorkar" /> </p>
 
