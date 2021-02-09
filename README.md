@@ -34,7 +34,7 @@ This is **Monir Hossain Showrav**. Connect with me here -
 </a>
 
 <h2 align="center">💡 Problem Solving Profiles <img src="https://github.com/shourov-sorkar/shourov-sorkar/blob/master/1.gif?raw=true" width="100px"></h2>
-<img align="center" alt="GIF" src="https://github.com/shourov-sorkar/shourov-sorkar/blob/master/working.gif?raw=true" width="1200" height="600" />
+<img align="center" alt="GIF" src="https://github.com/shourov-sorkar/shourov-sorkar/blob/master/work.gif" width="1200" height="600" />
 <p align="center">
 <a href="https://www.hackerrank.com/ID_18103142"><img src="https://img.shields.io/badge/hackerrank-2FC866?&style=for-the-badge&logo=hackerrank&logoColor=white"/></a><br>
 <a href="https://codeforces.com/profile/shourov_return0"><img src="https://img.shields.io/badge/codeforces-yellow?&style=for-the-badge&logo=codeforces&logoColor=white"/></a></p> <h5 align="center"> Total Solved: 183 | Total Tried: 240 | Total Submissions: 210</h5>
