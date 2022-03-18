@@ -35,6 +35,11 @@ This is **Monir Hossain Showrav**. Connect with me here -
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shourov-sorkar&layout=compact&theme=radical" alt="shourov-sorkar"/>
 </a>
 
+<h3 align="center">📊 Statistics 📊</h3>
+
+<h3 align="center">
+ <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=shourov-sorkar&theme=dark&background=FD2D2D00&hide_border=true&currStreakNum=DD0000&sideLabels=DD2727&sideNums=1CDDAD" alt="shourov-sorkar"/>
+</h3>
 <h2 align="center">💡 Problem Solving Profiles <img src="https://github.com/shourov-sorkar/shourov-sorkar/blob/master/1.gif?raw=true" width="100px"></h2>
 <img align="center" alt="GIF" src="https://github.com/shourov-sorkar/shourov-sorkar/blob/master/work.gif" width="1200" height="600" />
 <p align="center">
