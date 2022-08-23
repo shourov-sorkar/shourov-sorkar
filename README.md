@@ -10,10 +10,10 @@ This is **Monir Hossain Showrav**. Connect with me here -
 
 
 
-- 🏢 I'm currently student at **International University of Business Agriculture and Technology**
+- 🏢 I'm currently working as a Software Engineer at **Implevista**
 - 🚀 I use daily:
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
-  ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
+  ![Angular](https://img.shields.io/badge/-Angular-3b2e5a?style=plastic&logo=Angular)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 - 💻 I work using:
