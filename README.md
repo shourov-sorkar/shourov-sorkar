@@ -48,6 +48,14 @@ This is **Monir Hossain Showrav**. Connect with me here -
  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=shourov-sorkar&theme=light&background=FD2D2D00&hide_border=true&currStreakNum=DD0000&sideLabels=DD2727&sideNums=1CDDAD" alt="shourov-sorkar"/>
 </h3>
 <img src="https://activity-graph.herokuapp.com/graph?username=shourov-sorkar&bg_color=00000&hide_border=true" width="100%"/>
+
+<b>&#128200; Competitive Programming</b>
+
+<p float="left">
+<img height="273em" src="https://leetcard.jacoblin.cool/shourov_return0?theme=light&font=Karma&ext=contest" />
+<!-- <img height="280em" src="https://raw.githubusercontent.com/ahmmed_abir/cf-stats/main/output/light_card.svg" /> -->
+</p>
+
 <h2 align="center">💡 Problem Solving Profiles <img src="https://github.com/shourov-sorkar/shourov-sorkar/blob/master/1.gif?raw=true" width="100px"></h2>
 <img align="center" alt="GIF" src="https://github.com/shourov-sorkar/shourov-sorkar/blob/master/work.gif" width="1200" height="600" />
 <p align="center">
