@@ -38,10 +38,9 @@ This is **Monir Hossain Showrav**. Connect with me here -
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shourov-sorkar" alt="shourov-sorkar" /> </p>
 
-[![shourov-sorkar's github stats](https://github-readme-stats.vercel.app/api?username=shourov-sorkar&theme=dark&show_icons=true)](https://github.com/shourov-sorkar)
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shourov-sorkar&layout=compact&theme=radical" alt="shourov-sorkar"/>
-</a>
+
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=arifpro&count_private=true&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000)](https://github.com/shourov-sorkar)
 
 <h3 align="center">📊 Statistics 📊</h3>
 
