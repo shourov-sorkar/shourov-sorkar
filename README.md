@@ -40,7 +40,12 @@ This is **Monir Hossain Showrav**. Connect with me here -
 
 
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=shourov-sorkar&count_private=true&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000)](https://github.com/shourov-sorkar)
+
+
+<p float="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shourov-sorkar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shourov-sorkar&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
 
 <h3 align="center">📊 Statistics 📊</h3>
 
