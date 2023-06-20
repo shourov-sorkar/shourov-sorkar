@@ -41,10 +41,13 @@ This is **Monir Hossain Showrav**. Connect with me here -
 
 
 
+### ⚙️ &nbsp;GitHub Analytics
 
-<p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shourov-sorkar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shourov-sorkar&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<p align="center">
+<a href="https://github.com/shourov-sorkar">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shourov-sorkar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shourov-sorkar&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
 <h3 align="center">📊 Statistics 📊</h3>
