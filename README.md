@@ -55,7 +55,7 @@ This is **Monir Hossain Showrav**. Connect with me here -
 <h3 align="center">
  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=shourov-sorkar&theme=light&background=FD2D2D00&hide_border=true&currStreakNum=DD0000&sideLabels=DD2727&sideNums=1CDDAD" alt="shourov-sorkar"/>
 </h3>
-<img src="https://activity-graph.herokuapp.com/graph?username=shourov-sorkar&bg_color=00000&hide_border=true" width="100%"/>
+
 
 <b>&#128200; Competitive Programming</b>
 
