@@ -10,7 +10,7 @@ This is **Monir Hossain Showrav**. Connect with me here -
 
 
 
-- 🏢 I'm currently working as a Software Engineer at **Implevista**
+- 🏢 I'm currently working as a Software Engineer at **Cognitus Consulting LLC**
 - 🚀 I use daily:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
